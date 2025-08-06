@@ -1,1 +1,2 @@
 First feature line
+Second feature line
